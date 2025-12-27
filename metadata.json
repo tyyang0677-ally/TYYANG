@@ -1,0 +1,5 @@
+{
+  "name": "eLearning AI Analysis Portal",
+  "description": "An academic platform designed to visualize student learning processes and AI participation metrics, featuring a timeline-based interaction log and statistical analysis of AI-assisted study sessions.",
+  "requestFramePermissions": []
+}
